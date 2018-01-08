@@ -1,0 +1,1 @@
+ng build --prod --build-optimizer --base-href=http://alvaroguinda.com/new_web/
