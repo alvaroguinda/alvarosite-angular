@@ -45,6 +45,13 @@
     "protractor": "^5.4.2",
     "ts-node": "~3.2.0",
     "tslint": "~5.7.0",
-    "typescript": "~2.4.2"
+    "typescript": "~2.4.2",
+    "lodash": ">=4.17.11",
+    "extend": ">=3.0.2",
+    "webpack-dev-server": ">=3.1.11",
+    "randomatic": ">=3.0.0",
+    "https-proxy-agent": ">=2.2.0",
+    "hoek": ">=4.2.1",
+    "ssri": ">=5.2.2"
   }
 }
